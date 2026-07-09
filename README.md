@@ -21,5 +21,6 @@ Tenho 10 anos de experiência em gestão operacional e liderança no setor de va
 
 
 ## Projetos em destaque
-* [DEVFLIX](https://github.com/lucimarjo/DEVFLIX): Simulador o gerenciamento do catálogo de um serviço de streaming via terminal.
+* [Simulador de Mario Kart](https://github.com/lucimarjo/Simulador-de-Mario-Kart): Simula o jogo de videogame Mario Kart, com personagens e pistas de diferentes status.
+* [DEVFLIX](https://github.com/lucimarjo/DEVFLIX): Simula o gerenciamento do catálogo de um serviço de streaming via terminal.
 * [js-dom-counter-exercise](https://github.com/lucimarjo/js-dom-counter-exercise): Um contador simples onde o usuário pode incrementar, decrementar e resetar o valor de uma variável.
