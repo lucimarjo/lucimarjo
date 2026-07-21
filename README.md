@@ -21,6 +21,8 @@ Tenho 10 anos de experiência em gestão operacional e liderança no setor de va
 
 
 ## Projetos em destaque
+* [Gerador de QR Code e senha](https://github.com/lucimarjo/QR-Code-and-password-generator): Gera QR Code e senhas com gestão de Site e Usuário via terminal.
+* [Carrinho da Shopee](https://github.com/lucimarjo/Shopee-Cart): Simula um carrinho da Shopee podendo adicionar e remover itens via terminal.
 * [Simulador de Mario Kart](https://github.com/lucimarjo/Simulador-de-Mario-Kart): Simula o jogo de videogame Mario Kart, com personagens e pistas de diferentes status.
 * [DEVFLIX](https://github.com/lucimarjo/DEVFLIX): Simula o gerenciamento do catálogo de um serviço de streaming via terminal.
 * [js-dom-counter-exercise](https://github.com/lucimarjo/js-dom-counter-exercise): Um contador simples onde o usuário pode incrementar, decrementar e resetar o valor de uma variável.
