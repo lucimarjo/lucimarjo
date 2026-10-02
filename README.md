@@ -2,7 +2,7 @@
 
 ## About me / Sobre mim
 
-Estudante de Ciência da Computação (atualmente no 3º período) na Uninassau com foco e paixão pelo Desenvolvimento Backend e Gerenciamento de Bancos de Dados.
+Estudante de Ciência da Computação, atualmente no 4º período na Uninassau com foco e paixão pelo Desenvolvimento Backend e Gerenciamento de Bancos de Dados.
 Tenho 10 anos de experiência em gestão operacional e liderança no setor de varejo. Atuando em um mercado familiar, passei por todas as etapas do negócio, desde a frente de caixa e controle de estoque até a liderança de equipe. Hoje, combino minha experiência de mercado com uma evolução técnica constante.
 
 ## Social media / Redes sociais
@@ -17,7 +17,9 @@ Tenho 10 anos de experiência em gestão operacional e liderança no setor de va
 
 ### Tecnologies / Tecnologias
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) !
+[Spring Boot](https://img.shields.io/badge/springboot-000000?style=for-the-badge&logo=springboot&logoColor=green) !
+[React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ### DataBase / Banco de dados
 
