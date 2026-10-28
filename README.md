@@ -1,6 +1,9 @@
-# HI, I am Lucas Lima / Oi, eu sou Lucas Lima
+# Hi, I am Lucas Lima / Oi, eu sou Lucas Lima
 
 ## About me / Sobre mim
+
+Computer Science student, currently in my 4th semester at Uninassau, with a focus on and a passion for backend development and database management.
+I have 10 years of experience in operational management and leadership within the retail sector. Having worked in a family-run business, I gained exposure to every aspect of the operation—from point-of-sale and inventory control to team leadership. Today, I combine this practical business experience with continuous technical development.
 
 Estudante de Ciência da Computação, atualmente no 4º período na Uninassau com foco e paixão pelo Desenvolvimento Backend e Gerenciamento de Bancos de Dados.
 Tenho 10 anos de experiência em gestão operacional e liderança no setor de varejo. Atuando em um mercado familiar, passei por todas as etapas do negócio, desde a frente de caixa e controle de estoque até a liderança de equipe. Hoje, combino minha experiência de mercado com uma evolução técnica constante.
@@ -17,9 +20,8 @@ Tenho 10 anos de experiência em gestão operacional e liderança no setor de va
 
 ### Tecnologies / Tecnologias
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) !
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
-[React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ### DataBase / Banco de dados
 
